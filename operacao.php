@@ -10,7 +10,7 @@ $subtracao = 2-2;
 $multiplicao = 2 * 2;
 $divisao = 10 / 2;
 $aocubo = 2** 3;
-$restodiv = 2 % 3;
+$restodiv = 10 % 3;
 
 echo"Soma: {$soma}, 
 Subtração: {$subtracao},
