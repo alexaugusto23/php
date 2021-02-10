@@ -12,9 +12,9 @@ $divisao = 10 / 2;
 $aocubo = 2** 3;
 $restodiv = 10 % 3;
 
-echo"Soma: {$soma}, 
-Subtração: {$subtracao},
-Multiplicação:{$multiplicao}, 
-Divisão: {$divisao}, 
-Aocubo: {$aocubo}, 
-Resto: {$restodiv}";
+echo"Soma: $soma, 
+Subtração: $subtracao,
+Multiplicação: $multiplicao, 
+Divisão: $divisao, 
+Aocubo: $aocubo, 
+Resto: $restodiv";
